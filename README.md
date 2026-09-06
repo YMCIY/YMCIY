@@ -7,4 +7,4 @@ Welcome to my GitHub profile!
 - Version control basics
 
 ## 📫 How to reach me
-- 
+- zhuan_0620@163.com
